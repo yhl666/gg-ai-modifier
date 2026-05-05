@@ -89,7 +89,7 @@ android/app/src/main/kotlin/com/yl/aigg/ai_gg666/
 ### 快速开始
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourusername/ai_gg666.git
+git clone https://github.com/yhl666/ai_gg666.git
 cd ai_gg666
 
 # 2. 安装依赖
