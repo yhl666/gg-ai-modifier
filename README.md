@@ -1,4 +1,4 @@
-[中文文档](README/cn_README.md) | [英文文档](README/en_README.md) | [历史更新日志](update/)
+[中文文档](README/cn_README.md) | [English document](README/en_README.md) | [历史更新日志-Historical Update Log](update/)
 
 ---
 
@@ -95,9 +95,10 @@ Users can interact with the AI using natural language. The AI automatically unde
 If you find this project helpful, donations are warmly welcomed~
 
 **币安 USDT (TRC20) 收款地址**  
+**Binance USDT (TRC20) Receiving Address**  
 `TXAgg43gZhE62VYHgBEaLt1WXVP8LNYEYP`
 
-![币安 USDT 收款](img/币安收款捐赠usdt.png)
+![币安 USDT 收款](img/usdt.png)
 
 **微信收款 / WeChat Pay**
 
