@@ -1,7 +1,8 @@
 [中文文档](README/cn_README.md) | [English document](README/en_README.md) | [历史更新日志-Historical Update Log](update/)
 
 ---
-
+### 如果你喜欢，当前页面下方有捐赠入口，制作不易，谢谢你的支持
+### If you like, there is an entrance at the bottom of the current page to donate Binance USDT. It is not easy to make, thank you for your support.
 ## 📖 项目简介 / Project Introduction
 
 <table>
